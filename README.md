@@ -8,7 +8,7 @@
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 👨‍💻 All of my projects are available at [https://github.com/mono93/](https://github.com/mono93/)
 - 💬 Ask me about **Web development, Frotend development, Backend development, JavaScript, React, Angular, Node, PostgreSQL**
-- :mailbox: How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/monojit-saha) &ensp; [![Gmail](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:monojeetsaha1993@gmail.com)
+- :mailbox: How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/monojit-saha) &ensp; [![Gmail](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:monojeetsaha1993@gmail.com)
 
 ### :hammer_and_wrench: Languages and Tools:
 

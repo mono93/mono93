@@ -5,9 +5,9 @@
 <h2 align="center">I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.</h2>
 
 ### :man_technologist: About Me :
-- :telescope: I work as a Software Engineer making contributions to the frontend and backend for designing online applications.
+- :telescope: I work as a Software Engineer, making contributions to the frontend and backend for designing online applications.
 - 👨‍💻 All of my projects are available at [https://github.com/mono93/](https://github.com/mono93/)
-- 💬 Ask me about **Web development, Frontend development, Backend development, JavaScript, Next, React, Angular, Node, PostgreSQL**
+- 💬 Ask me about **Web development, Frontend development, Backend development, JavaScript, TypeScript, Next, Nest, React, Node, MongoDb, PostgreSQL, Angular**
 - :mailbox: How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/monojit-saha) &ensp; [![Gmail](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:monojeetsaha1993@gmail.com)
 
 ### :hammer_and_wrench: Languages and Tools:

@@ -18,12 +18,13 @@
   &emsp;<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="40" height="40"/>
   &emsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   &emsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  &emsp;<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="next" width="40" height="40" />
 </p>
 
 #### Backend:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  &emsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  &emsp;<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png" alt="express" width="40" height="40"/>
   &emsp;<img src="https://user-images.githubusercontent.com/136815194/273370085-519bfaf3-c242-431e-a269-876979f05574.png" alt="nestjs" width="40" height="40"/>
   &emsp;<img src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="WebSocket Logo" width="50" height="50">
 </p>

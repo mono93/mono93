@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <h1 align="center">Hey 👋, I'm Monojit Saha</h1>
-<h2 align="center">I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.</h2>
+<h2 align="center">I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.</h2>
 
 ### :man_technologist: About Me :
 - :telescope: I work as a Software Engineer, making contributions to the frontend and backend for designing online applications.

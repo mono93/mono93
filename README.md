@@ -57,6 +57,3 @@
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mono93&show_icons=true&theme=transparent&layout=donut)
-
-## Trophy
-![Your Trophy Case](https://github-profile-trophy.vercel.app/?username=mono93&theme=darkhub&margin-w=15&column=5&margin-h=15)
